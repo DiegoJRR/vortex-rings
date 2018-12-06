@@ -5,7 +5,7 @@ Tiene el objetivo de determinar la relaciónn que existe entre el momento lineal
 ![alt text](http://www.flowvis.org/wp-content/uploads/2016/09/Straccia_Vortex_Rings_Edited_Compressed2-600x400.jpg)
 
 # Organización de este repositorio
-El archivo 'Anillos-vortices.pdf' es la investigación. Esta fue realizada como un proyecto de monografía para el programa del Bachillerato Internacional (https://www.ibo.org/programmes/diploma-programme/) en el 2017. 
+El archivo 'Anillos-vortices.pdf' es la investigación. Esta fue realizada como un proyecto de monografía para el programa del Bachillerato Internacional (IB) en el 2017. 
 
 En el folder de ¨Datos¨ se encuentran las mediciones y algunos archivos en formato CSV con datos procesados. 
 
